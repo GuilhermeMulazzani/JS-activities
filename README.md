@@ -1,2 +1,2 @@
 # JS-activities
-Atividades passadas com o intuito de entender melhor como funciona o JS
+Introdução a JS, resolução de atividades relacionadas com o mais basico do JS
